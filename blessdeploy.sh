@@ -28,7 +28,7 @@ npm -v      # Should be 10.9.2
 
 print_section "Installing Blessnet CLI (force 'yes')"
 # Automatically confirm installation
-yes | npx blessnet
+npx blessnet
 
 print_section "Initializing Blessnet project"
 # Run blessnet init and capture the output directory name
