@@ -8,6 +8,11 @@ bash <(curl -s https://raw.githubusercontent.com/on-blockchain/bless/main/blessd
 
 ---
 
+## 🛠️ Manual Installation
+
+For manual installation, check the official BLESS documentation:  
+https://docs.bless.network/build-on-bless/installation
+
 ## 📖 What This Script Does
 
 - Installs NVM and Node.js v22
